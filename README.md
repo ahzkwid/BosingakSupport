@@ -9,7 +9,7 @@
 <BR>현재 마감상태이나 지하철 작업중으로 인해 신규 공간 창출 가능성이 있습니다
 
 <BR>![image](https://github.com/user-attachments/assets/0178cfaf-035e-4d7a-8437-ed96a1d281a7)
-<BR>
+<BR>롤링배너입니다
 <BR>세로배너의 비율은 약 4: 7 입니다
 <BR>좌우로 약간 잘릴것 생각해서 만들어주셔야 합니다
 
