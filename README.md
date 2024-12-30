@@ -10,10 +10,13 @@
 
 
 
-<BR>![image](https://github.com/user-attachments/assets/0178cfaf-035e-4d7a-8437-ed96a1d281a7)
+<BR>![image](https://github.com/user-attachments/assets/e859a115-be5b-40ec-9b0a-88e8fdddf4f4)
 <BR>롤링배너입니다
-<BR>세로배너의 비율은 약 4: 7 입니다
+<BR>가로배너의 비율은 약 480 : 128입니다
 <BR>좌우로 약간 잘릴것 생각해서 만들어주셔야 합니다
+<BR>
+<BR>세로배너의 비율은 약 4: 7 입니다
+<BR>상하로 약간 잘릴것 생각해서 만들어주셔야 합니다
 
 
 <BR>![image](https://github.com/user-attachments/assets/14a790c5-d598-4d89-a1d6-98a0c1063b21)
