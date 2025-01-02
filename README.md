@@ -21,6 +21,12 @@
 <BR>비율은 5:12입니다
 
 
+<BR>![image](https://github.com/user-attachments/assets/237d3bb2-307d-41df-be63-e06796c9f707)
+<BR>현수막광고입니다
+<BR>비율은 50:9입니다
+
+
+
 <BR>추가예정지
 <BR>아래 이미지는 예시이미지로 실제와는 다르며 작업이 늦어질경우 반영되지 못할수 있습니다
 <BR>![image](https://github.com/user-attachments/assets/c468baa6-74e2-4a8d-b256-46321c1dff2f)
