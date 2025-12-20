@@ -5,7 +5,7 @@
 [이슈작성하러 가기](https://github.com/ahzkwid/BosingakSupport/issues/new)
 
 
-이미지 해상도는 2k 이하로 부탁드립니다
+이미지 해상도는 1k 이하로 부탁드립니다
 
 요청갯수와 이미지에 따라 거부될수 있습니다.
 
