@@ -54,3 +54,10 @@
 메인배너입니다.
 
 현재 마감되었습니다
+
+
+# 24:14
+
+<img width="475" height="554" alt="image" src="https://github.com/user-attachments/assets/07952f2e-448b-48ad-aeba-2e5108e33541" />
+
+현재 마감되었습니다
