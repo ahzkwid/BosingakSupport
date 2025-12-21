@@ -2,7 +2,7 @@
 
 단체사진 및 배너는 Issues에 투고해주시기 바랍니다
 
-[이슈작성하러 가기](https://github.com/ahzkwid/BosingakSupport/issues/new)
+[작성하러 가기](https://github.com/ahzkwid/BosingakSupport/issues/new)
 
 
 이미지 해상도는 1k 이하로 부탁드립니다
