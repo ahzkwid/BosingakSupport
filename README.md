@@ -50,7 +50,7 @@
 
 현수막광고입니다
 
-# 1:1
+# 24:21
 <img width="866" height="743" alt="image" src="https://github.com/user-attachments/assets/1681293f-9be0-446d-b633-eb1af2f5b84e" />
 
 
