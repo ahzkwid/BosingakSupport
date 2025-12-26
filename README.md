@@ -46,12 +46,17 @@
 
 # 50:9
 
-![image](https://github.com/user-attachments/assets/237d3bb2-307d-41df-be63-e06796c9f707)
+<img width="764" height="762" alt="image" src="https://github.com/user-attachments/assets/2d6497fe-3f42-4991-8ec3-4e568bcf4847" />
 
 현수막광고입니다
 
 # 24:21
 <img width="866" height="743" alt="image" src="https://github.com/user-attachments/assets/1681293f-9be0-446d-b633-eb1af2f5b84e" />
+
+# 5:4
+<img width="583" height="786" alt="image" src="https://github.com/user-attachments/assets/42bae77b-b334-4c2b-952e-ceda82f205e0" />
+
+
 
 
 # 21:12
